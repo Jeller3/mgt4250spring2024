@@ -21,3 +21,7 @@ This text describes the data.
 ![image](https://github.com/Jeller3/mgt4250spring2024/assets/168783518/8454577d-1b2d-41df-983a-b46c42d4f78d)
 ## Discussion & Summary
 This text summarizes the data.
+
+```
+import pandas as pd
+```
